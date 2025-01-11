@@ -9,7 +9,7 @@ I created this Dashboard to help job seekers investigate salaries for their desi
 The dataset contains detailed information on job titles, salaries, locations, and essential skills that are presented here.
 
 ### Dashboard File
-My final dashboard is in [Salary_Dashboard](Data%20Science%20Salary%20Dashboard.xlsx). 
+The final dashboard is [Here](Data%20Science%20Salary%20Dashboard.xlsx). 
 
 ### Excel Skills Used
 
